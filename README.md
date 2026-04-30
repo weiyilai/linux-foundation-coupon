@@ -6,7 +6,7 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Following are the Latest Linux Foundation Coupon Codes for Certification &amp; Training Programs
 
-## [Up to 40% OFF] Linux Foundation Exclusive Kube Sale (Ends in 2 Days)
+## [Up to 40% OFF] Linux Foundation Exclusive Kube Sale (Ends in Few Hours)
 
 As part of the exclusive Kube sale, get a flat 35% discount on all the Kubernetes certifications.
 
