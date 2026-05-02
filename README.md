@@ -33,7 +33,7 @@ The following are the best bundles to **save 38% ($600+ savings)** with code **D
 
 ## Kubestronaut Bundle Discounts
 
-If you are looking for Kubestronaut program, Use code **35KUBESC** with the following bundle options. 
+If you are looking for Kubestronaut program, Use code **DCUBE30** with the following bundle options. 
 
 - If you dont have any kubernetes certifications, go for [kubestronaut Bundle ](https://kube.promo/kubestronaut)
 - If you have CKA, go for the [CKA to Kubestronaut Bundle](https://trainingportal.linuxfoundation.org/collections/cka-upgrade-to-kubestronaut-bundle)
