@@ -6,6 +6,44 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Following are the Latest Linux Foundation Coupon Codes for Certification &amp; Training Programs
 
+## [45% OFF] Linux Foundation May Flash Sale (Few days Only)
+
+Get up to 45% off on Certifications and bundles using the exclusive flash sale.
+
+For individual certifications, use the following exclusive coupon code.
+
+Use code **DCUBE30** at [kube.promo/devops](https://kube.promo/devops) and save flat 30%.
+
+To **save up to 55%** on certifications, use code **FOURTH26CT** with the following bundles.
+
+- CKA + CKAD: [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
+- CKA + CKS Bundle  [kube.promo/bundle](https://kube.promo/bundle)
+- CKA + CKAD + CKS Exam bundle: [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
+- KCNA + KCSA + CKA + CKAD + CKS (55% Discount): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
+- KCNA + CKA: [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
+- KCSA + CKS Exam Bundle: [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
+- KCNA + KCSA Exam Bundle: [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
+
+> [!NOTE]
+>Note: Offer may offer ends soon. So lockin the price.
+
+## [40% OFF] Kubestronaut Bundle Discounts
+
+If you are looking for Kubestronaut program, Use code **FOURTH26CT** with the following bundle options. 
+
+- If you dont have any kubernetes certifications, go for [kubestronaut Bundle ](https://kube.promo/kubestronaut)
+- If you have CKA, go for the [CKA to Kubestronaut Bundle](https://trainingportal.linuxfoundation.org/collections/cka-upgrade-to-kubestronaut-bundle)
+- If you have CKAD, go for the [CKAD to Kubestronaut Upgrade Bundle](https://trainingportal.linuxfoundation.org/collections/certified-kubernetes-application-developer-ckad-to-kubestronaut-upgrade-bundle)
+
+## [40% OFF] Golden Kubestronaut Bundle Coupon
+
+If you are a Kubestronaut, you can go for the Golden Kubestronaut  
+
+It has LFCS, PCA, ICA, CCA, CAPA, CGOA, CBA, OTCA, and KCA certification exams.
+
+Use code **FOURTH26CT** at [Kubestronaut to Golden Kubestronaut Upgrade Bundle](https://trainingportal.linuxfoundation.org/collections/kubestronaut-to-golden-kubestronaut-upgrade-bundle) to get 30% discount on the bundle.
+
+
 ## [UpTo 38% OFF] Linux Foundation DevOps Sale (Limited Sale)
 
 As part of the exclusive DevOps sale, get a flat 30% discount on all the Linux Foundation certifications, training programs, skill crews, and IT professional programs, including all bundles like the Kubestronaut.
@@ -30,22 +68,6 @@ The following are the best bundles to **save 38% ($600+ savings)** with code **D
 
 > [!NOTE]
 >Note: Offer ends soon. So lockin the price.
-
-## Kubestronaut Bundle Discounts
-
-If you are looking for Kubestronaut program, Use code **DCUBE30** with the following bundle options. 
-
-- If you dont have any kubernetes certifications, go for [kubestronaut Bundle ](https://kube.promo/kubestronaut)
-- If you have CKA, go for the [CKA to Kubestronaut Bundle](https://trainingportal.linuxfoundation.org/collections/cka-upgrade-to-kubestronaut-bundle)
-- If you have CKAD, go for the [CKAD to Kubestronaut Upgrade Bundle](https://trainingportal.linuxfoundation.org/collections/certified-kubernetes-application-developer-ckad-to-kubestronaut-upgrade-bundle)
-
-## Golden Kubestronaut Bundle Coupon
-
-If you are a Kubestronaut, you can go for the Golden Kubestronaut  
-
-It has LFCS, PCA, ICA, CCA, CAPA, CGOA, CBA, OTCA, and KCA certification exams.
-
-Use code **DCUBE30** at [Kubestronaut to Golden Kubestronaut Upgrade Bundle](https://trainingportal.linuxfoundation.org/collections/kubestronaut-to-golden-kubestronaut-upgrade-bundle) to get 30% discount on the bundle.
 
 ## FinOps Certification Discount [Limited Offer]
 
@@ -159,18 +181,6 @@ Bundles come with **extra discounts** on top of 30% using the same coupon.
 - CKA + CKAD + CKS Exam bundle ($419 Savings): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
 
 Use code **EARTHDAY24ILT** for instructor-led courses.
-
-## [55% OFF] Linux Foundation Flash Sale [Expired]
-
-Get up to 55% off on Certifications and bundles using the exclusive flash sale.
-
-For individual certifications, use the following exclusive coupon code.
-
-Use code **MAY24SPECIALCT** at [kube.promo/devops](https://kube.promo/devops) and save 46%.
-
-To **save up to 55%** on certifications, use code **MAY24PLUSCT** with the following bundles.
-
-Use Code **MAY24ILTCT** for instructor-led training to get a 20% flat discount.
 
 ## Kubernetes Birthday Sale (2 Days only) [Expired]
 
