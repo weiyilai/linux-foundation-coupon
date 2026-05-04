@@ -14,7 +14,7 @@ For individual certifications, use the following exclusive coupon code.
 
 Use code **DCUBE30** at [kube.promo/devops](https://kube.promo/devops) and save flat 30%.
 
-To **save up to 55%** on certifications, use code **FOURTH26CT** with the following bundles.
+To **save up to 45%** on certifications, use code **FOURTH26CT** with the following bundles.
 
 - CKA + CKAD: [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
 - CKA + CKS Bundle  [kube.promo/bundle](https://kube.promo/bundle)
