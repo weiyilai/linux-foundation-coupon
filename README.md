@@ -6,6 +6,33 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Following are the Latest Linux Foundation Coupon Codes for Certification &amp; Training Programs
 
+## [UpTo 65% OFF] Linux Foundation Mega Cyber Boost Sale (Limited Time Offer)
+
+You will get flat 50% off on individual, certifications like CKA, CKAD, CKS using the following coupon.
+
+> [!IMPORTANT]
+**Coupon:** Use code **MM26CCCT** at [kube.promo/devops](https://kube.promo/devops)
+
+Use code **MM26BUNCT** to **save up to 60%** on the following Kubernetes certification bundles.
+
+- CKA + CKAD ($450+ Savings): [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
+- CKA + CKS Bundle (63% - $500 Savings) [kube.promo/bundle](https://kube.promo/bundle)
+- CKA + CKAD + CKS Exam bundle (63% - $747 Savings): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
+- KCNA + CKA (68% - $338 Savings) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
+- KCSA + CKS Exam Bundle (64% - $407 Savings) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
+- KCNA + KCSA Exam Bundle (66% - $330 Savings) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
+
+> [!IMPORTANT]
+Use code **MM26K8BUNCT** Kubestronaut Bundle, Golden Kubestronaut Bundle, Kubestronaut to Golden Kube upgrade Bundle
+
+- KCNA + KCSA + CKA + CKAD + CKS (50% Discount): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
+
+If you bundle Your Certs with THRIVE Annual Subscription you can get 65% off certifications along with,
+
+- 100+ educational products
+- 45+ e-learning courses with hand-on labs
+- 8+ SkillCreds
+
 ## [UpTo 38% OFF] Linux Foundation DevOps Sale (Limited Sale)
 
 As part of the exclusive DevOps sale, get a flat 30% discount on all the Linux Foundation certifications, training programs, skill crews, and IT professional programs, including all bundles like the Kubestronaut.
@@ -183,12 +210,6 @@ You can get up to 47% discount using the following bundles using code **LUNAR25C
 - KCNA + CKA ( $255 Savings) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
 - KCSA + CKS Exam Bundle ($209 Savings) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
 - KCNA + KCSA Exam Bundle ($203 Savings) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
-
-If you bundle Your Certs with THRIVE Annual Subscription you can get 40% off certifications along with,
-
-- 100+ educational products
-- 45+ e-learning courses with hand-on labs
-- 8+ SkillCreds
 
 >Note: This offer only valid forfew days. So hurry up and make use of this offer before it expires.
 
