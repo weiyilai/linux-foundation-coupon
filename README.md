@@ -33,6 +33,9 @@ If you bundle Your Certs with THRIVE Annual Subscription you can get 65% off cer
 - 45+ e-learning courses with hand-on labs
 - 8+ SkillCreds
 
+> [!NOTE]
+>Note: You Won't see this offer again until Cyber offer in November. So locking this huge discount before May 20th. Dont miss out.
+
 ## [UpTo 38% OFF] Linux Foundation DevOps Sale (Limited Sale)
 
 As part of the exclusive DevOps sale, get a flat 30% discount on all the Linux Foundation certifications, training programs, skill crews, and IT professional programs, including all bundles like the Kubestronaut.
